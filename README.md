@@ -1,4 +1,4 @@
-<img width="1920" height="350" src="https://i.pinimg.com/736x/b1/4f/7b/b14f7bd3cb7d679ef113016d90efa097.jpg" />
+<img width="1920" height="350" src="https://i.pinimg.com/736x/ae/f1/1c/aef11cac2f4bbc3402061c9733c0a903.jpg" />
 
 # hey~!! i'm `runtive`~!!
 
