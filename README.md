@@ -1,4 +1,4 @@
-<img width="1920" height="350" src="https://i.pinimg.com/1200x/39/16/ef/3916ef06c0ea2acdb5fd4d600db429fe.jpg" />
+<img width="1200" height="400" alt="github" src="https://github.com/user-attachments/assets/af47ef97-dcab-4b9d-9ab5-df4271b888b9" />
 
 # hey~!! i'm `caevn`~!!
 
